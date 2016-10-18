@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 246b7714b089e0548b232d5444fc0a07
+timeCreated: 1454161984
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - discoSnakesPrefab: {fileID: 5073434, guid: 73b004bdefe459f48a15600b9a10bd20, type: 2}
+  - discoFiresPrefab: {fileID: 5086052, guid: 321b1796b9bc1404b9029d527e8079f6, type: 2}
+  - discoTeasPrefab: {fileID: 5037336, guid: e2ce165d8640d5a429af4447b286effa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

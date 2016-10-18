@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 863764abd27a8ea4fb13eeae78ef3691
+timeCreated: 1454210426
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cletus_0
+    21300002: Cletus_1
+    21300004: Cletus_2
+    21300006: Cletus_3
+    21300008: Cletus_4
+    21300010: Cletus_5
+    21300012: Cletus_6
+    21300014: Cletus_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Cletus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .559198558, y: .569823921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cletus_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .563752294, y: .515179157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cletus_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .459016114, y: .512143254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cletus_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .445355237, y: .606253743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cletus_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .490892529, y: .496964216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cletus_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .540983558, y: .472677618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cletus_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .427140057, y: .460534304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cletus_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: .518214703, y: .469641775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
